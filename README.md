@@ -1,2 +1,2 @@
 # AndroidPermissionsReader
-This is an android app that allows you to select any application currently downloaded on your device from a drop down list, and view the permissions it requires or has access too.
+This is an android app that allows you to select any app on your phone and view the permissions it either requires or has access to.
